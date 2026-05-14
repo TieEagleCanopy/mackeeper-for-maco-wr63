@@ -1,4 +1,4 @@
-# 
+# Enhance MacKeeper for macOS with exclusive MacKeeper for macOS Plugin | emergency-access + junk-file-cleanup, the #1 plugin. Includes emergency-access and junk-file-cleanup for a
 
 
 
